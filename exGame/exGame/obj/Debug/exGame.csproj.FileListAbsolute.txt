@@ -1,0 +1,10 @@
+C:\Users\jin\Documents\Game\exGame\exGame\bin\Debug\exGame.exe.config
+C:\Users\jin\Documents\Game\exGame\exGame\bin\Debug\exGame.exe
+C:\Users\jin\Documents\Game\exGame\exGame\bin\Debug\exGame.pdb
+C:\Users\jin\Documents\Game\exGame\exGame\obj\Debug\exGame.csproj.AssemblyReference.cache
+C:\Users\jin\Documents\Game\exGame\exGame\obj\Debug\exGame.csproj.CoreCompileInputs.cache
+C:\Users\jin\Documents\Game\exGame\exGame\obj\Debug\exGame.exe
+C:\Users\jin\Documents\Game\exGame\exGame\obj\Debug\exGame.pdb
+C:\Users\jin\Documents\Game\exGame\exGame\obj\Debug\exGame.exe.config
+C:\Users\jin\Documents\Game\exGame\exGame\obj\Debug\exGame.Properties.Resources.resources
+C:\Users\jin\Documents\Game\exGame\exGame\obj\Debug\exGame.csproj.GenerateResource.cache
